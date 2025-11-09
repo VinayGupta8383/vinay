@@ -1,2 +1,2 @@
-# vinay
-this is my second repository
+# vinay-demo
+this is my fist repository
