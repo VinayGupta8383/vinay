@@ -2,4 +2,4 @@
 
 This is my fist repository
 <br>
-Author - Vinay (vinaygupta)
+Author - Vinay (vinay)
